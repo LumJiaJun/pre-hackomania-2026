@@ -4,6 +4,7 @@ https://api.open-meteo.com/v1/forecast?latitude=1.3521&longitude=103.8198&curren
 Open-payments  
  Github: https://github.com/interledger/open-payments  
  Docs: https://openpayments.dev/overview/getting-started/  
+ SDK: https://openpayments.dev/sdk/before-you-begin/
 
 Google ADK:  
  Docs: https://google.github.io/adk-docs/  
