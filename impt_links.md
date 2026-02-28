@@ -30,3 +30,6 @@ https://google.github.io/adk-docs/api-reference/agentconfig/
 https://clickhouse.com/docs/use-cases/AI/MCP/librechat  
 https://www.docker.com/products/docker-desktop/  
 https://www.google.com/search?client=opera-gx&q=how+do+I+know+mine+is+AMD+or+ARM+64&sourceid=opera&ie=UTF-8&oe=UTF-8  
+
+Interledger:
+Slides: https://docs.google.com/presentation/d/13DZjPFNC4HZr0wnYDC3BOI9VvcvY0KK-1VwbTYfpIi4/edit
